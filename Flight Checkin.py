@@ -2,10 +2,10 @@
 ## Fill out below four inputs to enter into website and receive confirmation ##
 ###############################################################################
 # confirmation_number = raw_input("What is your confirmation number?")
-confirmation_number = 'HY6Q9A' 
-first_name = 'Kevin'
-last_name = 'Crawford'
-email_address = 'k.crawford.travel@gmail.com'
+confirmation_number = '' 
+first_name = ''
+last_name = ''
+email_address = ''
 
 from time import sleep
 from selenium import webdriver
